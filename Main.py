@@ -14,6 +14,7 @@ class Stack:
         if not self.is_full():
             # Write code here
 
+            
     def pop(self):
         if not self.is_empty():
             # Write code here
